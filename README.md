@@ -1,5 +1,7 @@
 This is the continuation of the application developed to store the repositories of your portfolio. The first part can be found at [here](https://github.com/joseaugustodardengo/GoStack-Challenge2).
 
+[Video explaining how the project was developed - in Portuguese](https://youtu.be/jFrATB30Cg4)
+
 ![repositories](https://user-images.githubusercontent.com/60450451/86067557-841c9280-ba4b-11ea-8205-5d9d0c068bc5.png)
 
 ## Requirements to run the application
